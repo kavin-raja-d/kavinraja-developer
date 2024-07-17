@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavinraja-developer" alt="kavinraja-developer" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/kavinra79499556" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/kavinra79499556?logo=twitter&style=for-the-badge" alt="https://twitter.com/kavinra79499556" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
